@@ -15,7 +15,7 @@ public class MazeSolverProject {
         // find a way to [2*grid-1, 2*grid-1] coordinates
         // use the following code to print the maze at each step
         // MazeUtility.plotMaze(maze);  
-        // DO NOT change any of the given code
+       
     }
     
     public static int[][] getMaze(int grid) {
